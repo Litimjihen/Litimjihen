@@ -4,7 +4,7 @@
 - 🔬 MSc Student in **Artificial Intelligence applied to Business** at [Aivancity Paris](https://www.aivancity.ai/)
 - 💼 Former **Embedded Systems Engineer** at Capgemini Engineering (2023-2024)
 - 🌱 Currently learning: **Deep Learning**, **NLP**, **MLOps**
-- 🎯 Looking for: **Data Scientist Internship** (4-6 months, from Mars 2026)
+- 🎯 Looking for: **Data Scientist CDI** (Starting october 2026)
 - 📍 Based in Paris, France 🇫🇷
 
 ## 🛠️ Tech Stack
